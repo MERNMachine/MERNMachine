@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MERNMachine
+- 👋 Hi, I’m a Passionate full-stack developer
 - 👀 I’m interested in Trading
 - 🌱 I’m currently learning Embedded C
 - 💞️ I’m looking to collaborate with other talent developers
