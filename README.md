@@ -1,11 +1,2 @@
-- 👋 Hi, I’m a Passionate full-stack developer
-- 👀 I’m interested in Trading
-- 🌱 I’m currently learning Embedded C
-- 💞️ I’m looking to collaborate with other talent developers
-- 📫 How to reach me : john.kelvin.guru@gmail.com 
-- 😄 Pronouns: He/Him
-
-<!---
-MERNMachine/MERNMachine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there 👋
+I'm a MERN Stack Web Developer with extensive experience in building high-quality web applications. I specialize in creating scalable, efficient, and robust solutions for a variety of web-based platforms, ensuring that my work aligns with the needs of both the business and its technical goals. My experience has equipped me with the technical expertise to support companies with sustainable and impactful software solutions.
