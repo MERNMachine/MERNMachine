@@ -37,3 +37,5 @@
 <div align="center">
   <img src="https://github.com/MERNMachine/MERNMachine/blob/main/divider1.png" alt="divider"/>
 </div> 
+ <h3>🔥 Streak Stats</h3>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=MERNMachine&theme=duskfox&border_radius=5&card_width=700" alt="GitHub Streak" /></a>
