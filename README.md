@@ -37,9 +37,23 @@
 <div align="center">
   <img src="https://github.com/MERNMachine/MERNMachine/blob/main/divider1.png" alt="divider"/>
 </div> 
- <h3>🔥 Streak Stats</h3>
+ <h2>🔥 Streak Stats</h2>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=MERNMachine&theme=duskfox&border_radius=5&card_width=700" alt="GitHub Streak" /></a>
-<h2 align="center"> Thanks for visiting my profile. </h2>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
+</p>
+
+<h2 align="center"> Thanks for visiting my profile. </h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
