@@ -39,3 +39,7 @@
 </div> 
  <h3>🔥 Streak Stats</h3>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=MERNMachine&theme=duskfox&border_radius=5&card_width=700" alt="GitHub Streak" /></a>
+<h2 align="center"> Thanks for visiting my profile. </h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
