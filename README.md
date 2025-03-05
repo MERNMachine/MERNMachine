@@ -3,7 +3,9 @@
   <h3>I am a <b>Full Stack & Blockchain Developer</b>.</h3>
 </p>
 
----
+<div align="center">
+  <img src="https://github.com/MERNMachine/MERNMachine/blob/main/divider1.png" alt="divider"/>
+</div> 
 
 ## 🚀 Tech & Tools  
 
@@ -17,5 +19,14 @@
 |------------|--------|----------|
 |<div align = "center"> ![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat) ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity) ![Ethers.js](https://img.shields.io/badge/-Ethers.js-000000?style=flat) ![Solana](https://img.shields.io/badge/-Solana-9945FF?style=flat&logo=solana) ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust) ![Bitsensor](https://img.shields.io/badge/-Bitsensor-EE4C2C?style=flat) ![Smart Contract](https://img.shields.io/badge/-Smart%20Contract-31A8FF?style=flat) ![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=flat&logo=bitcoin) </div>|<div align = "center"> ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop) ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat&logo=adobe-xd) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma) ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender) ![WebGL](https://img.shields.io/badge/-WebGL-990000?style=flat) ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js) </div>|<div align = "center"> ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql) ![NoSQL](https://img.shields.io/badge/-NoSQL-005571?style=flat) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql) ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoft-sql-server) ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=amazondynamodb) </div>|
 
----
+<div align="center">
+  <img src="https://github.com/MERNMachine/MERNMachine/blob/main/divider2.png" alt="divider"/>
+</div> 
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
+</div> 
+
+<div align="center">
+  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider"/>
+</div>   
