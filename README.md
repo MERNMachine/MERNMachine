@@ -28,5 +28,12 @@
 </div> 
 
 <div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/MERNMachine/MERNMachine/blob/main/divider2.png" alt="divider"/>
 </div>   
+<div align="center">
+  <img src="https://github.com/MERNMachine/MERNMachine/blob/main/portfolio.png" alt="Portfolio"/>
+</div> 
+
+<div align="center">
+  <img src="https://github.com/MERNMachine/MERNMachine/blob/main/divider1.png" alt="divider"/>
+</div> 
